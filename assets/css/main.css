@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fondamento:ital@0;1&display=swap');
+* {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.border {
+  border: 1px solid pink;
+}
+
+ul.social-icons li a {
+  color: #0f0f0f;
+}
+
+i.icon {
+  font-size: 24px;
+}
+
+#mainNavigation {
+  background-color: #0f0f0f;
+}
+
+.top-bar, .top-bar ul {
+  background-color: #0f0f0f;
+  color: #ffffff;
+}
+
+.top-bar, .top-bar ul a {
+  background-color: #0f0f0f;
+  color: #ffffff;
+  text-transform: uppercase !important;
+}
+
+.top-bar-left ul {
+  display: flex;
+  align-items: center;
+}
+
+.orbit {
+  margin-bottom: 50px;
+  position: relative;
+}
+
+.orbit-bullets {
+  margin: 0 auto;
+  margin-top: -44px;
+  text-align: right;
+}
+
+.orbit-bullets button {
+  background-color: transparent;
+  border: 2px solid #fff;
+}
+
+.slide-text-wrap {
+  width: 200px;
+  height: 50px;
+  background-color: rgb(194, 91, 18);
+  z-index: 2;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  text-align: center;
+  color: #fff;
+  display: inline-block;
+}
+
+.slide-text {
+  margin: 0;
+  padding: 10px 0;
+  text-align: center;
+  font-weight: bold;
+}
+
+.home-card-title {
+  margin-top: 10px;
+  font-family: 'Fondamento', cursive;
+  font-style: italic;
+}
+
+.slogan {
+  color: rgb(194, 91, 18);
+  margin: 50px 0;
+  font-family: 'Fondamento', cursive;
+  font-style: italic;
+}
+
+footer {
+  background-color: rgb(194, 91, 18);
+  padding: 20px 0;
+  color: #ffffff;
+}
+
+.footer-section {
+  padding-bottom: 10px;
+}
+
+footer .menu a {
+  color: #ffffff;
+  text-transform: uppercase !important;
+}
+
+.iletisim-page-container {
+  max-width: 500px;
+  background-color: rgb(194, 91, 18);
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  padding: 10px;
+  margin-bottom: 50px;
+  margin-top: -6px"
+
+}
+
+.iletisim-page-title {
+  margin: 0;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-style: italic;
+  text-align: center;
+  font-weight: bold;
+}
+
+.c7-form {
+  border: 2px solid rgb(194, 91, 18);
+}
+
+.c7-form-btn {
+  background-color: rgb(194, 91, 18);
+  color: white;
+  padding: 10px;
+}
